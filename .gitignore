@@ -1,0 +1,12 @@
+TestResults/*
+BadSmell.bs
+BadSmell.bs.html
+POS.v12.suo
+POS.v12.suo.doc
+StyleCop.Cache
+POS_Test/obj/Debug*
+POS_Test/bin/Debug/*
+McDonald's Ordering SystemTests/obj/Debug/*
+McDonald's Ordering SystemTests/bin/Debug/*
+Hw1/obj/Debug/*
+Hw1/bin/Debug/*
